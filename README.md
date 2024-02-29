@@ -7,6 +7,12 @@ To get started, clone this repository:
 bash
 Copy code
 git clone https://github.com/harshinharshi/Pandas_Basics_for_Machine_Learning.git
+
+## ipykernel package is required for running the jyupiter notebook
+```bash
+pip install ipykernel
+```
+
 ## Contents
 This repository includes:
 
@@ -14,6 +20,7 @@ Jupyter notebooks demonstrating basic Pandas operations.
 Sample datasets for practice 
 **csv** : https://www.kaggle.com/datasets/ahsen1330/us-police-shootings
 **excel** : https://www.kaggle.com/datasets/shivavashishtha/dirty-excel-data
+**html** : https://www.basketball-reference.com/teams/TOR/2024.html
 
 ## README.md file for guidance.
 ## Usage
