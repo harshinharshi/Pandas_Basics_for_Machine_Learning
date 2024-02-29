@@ -11,8 +11,11 @@ git clone https://github.com/harshinharshi/Pandas_Basics_for_Machine_Learning.gi
 This repository includes:
 
 Jupyter notebooks demonstrating basic Pandas operations.
-Sample datasets for practice : https://www.kaggle.com/datasets/ahsen1330/us-police-shootings.
-README.md file for guidance.
+Sample datasets for practice 
+**csv** : https://www.kaggle.com/datasets/ahsen1330/us-police-shootings
+**excel** : https://www.kaggle.com/datasets/shivavashishtha/dirty-excel-data
+
+## README.md file for guidance.
 ## Usage
 Feel free to explore the notebooks provided to understand various Pandas functionalities such as data manipulation, cleaning, and transformation. These notebooks serve as a beginner's guide to utilizing Pandas for machine learning tasks.
 
